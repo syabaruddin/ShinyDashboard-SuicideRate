@@ -1,6 +1,6 @@
 # ShinyDashboard-SuicideRate
 
-This dashboard is to visualize Suicide Rate 1985-2015
+This dashboard is created to visualize Suicide Rate 1985-2015. Data sourced from Kaggle.com
 
 Please click link below to check the dashboard uploaded in shinyapps
 
