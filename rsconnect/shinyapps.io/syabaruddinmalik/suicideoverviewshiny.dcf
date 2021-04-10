@@ -1,0 +1,12 @@
+name: suicideoverviewshiny
+title: suicideoverviewshiny
+username:
+account: syabaruddinmalik
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3934885
+bundleId: 4455097
+url: https://syabaruddinmalik.shinyapps.io/suicideoverviewshiny/
+when: 1618076235.54939
+asMultiple: FALSE
+asStatic: FALSE
