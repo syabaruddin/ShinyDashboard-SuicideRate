@@ -2,7 +2,7 @@
 
 This dashboard is to visualize Suicide Rate 1985-2015
 
-Please click link below to check the dashboard
+Please click link below to check the dashboard uploaded in shinyapps
 
 https://syabaruddinmalik.shinyapps.io/suicideoverviewshiny/?_ga=2.230470484.977343682.1618057553-338269565.1617280332
 
